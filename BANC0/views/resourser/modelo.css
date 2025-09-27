@@ -1,0 +1,205 @@
+.mujer {
+ width: 800px;
+ height: 780px;
+}
+.paycad {
+ width: 400px;
+ height: 305px;
+ margin-left: 200px;
+ margin-top: -300px;
+}
+.escudo {
+  width: 50px;
+ height: 50px;
+ margin-left: 1160px;
+ margin-top: -700px;
+}
+.transacciones {
+    text-align: center;
+    font-size: 20px;
+    margin-left: 850px;
+    margin-top: -300px;
+    color: #000000;
+    font-family: 'Arial Narrow', Arial, sans-serif;
+    
+}
+.Hombre {
+    height: 500px;
+    width: 700px;
+    margin-top: 200px;
+    margin-left: 60px ;
+}
+.tx2 {
+    text-align: center;
+    font-size: 30px;
+    margin-left: 800px;
+    margin-top: -630px;
+    color: #000000;
+    font-family: sans-serif ;
+    font-weight: 900; 
+}
+.tx4 {
+  font-size: 20px;
+  margin-left: 970px;
+  margin-top: 30px;
+}
+.arriba1 {
+    margin-left: 970px;
+    margin-top: 90px;
+}
+.tx5 {
+  font-size: 25px;
+  margin-left: 1050px;
+  margin-top: -40px;
+  font-weight: bold;
+}
+.arriba2 {
+    margin-left: 970px;
+    margin-top: 60px;
+}
+.arriba3 {
+
+    margin-left: 970px;
+    margin-top: 60px;
+}
+.btn-primary {
+    background-color:red !important;
+    margin-top: 100px;
+    margin-left: 800px;
+   
+}
+.tx7 {
+  font-size: 20px;
+  margin-left: 1030px;
+  margin-top: 70px;
+}
+.tx8 {
+  font-size: 40px;
+  margin-left: 1120px;
+  margin-top: 80px;
+  font-weight: bold;
+
+}
+#codigo {
+font-size: 3rem;
+margin-left: 2000px;
+letter-spacing: 20px;
+margin-top: 90px;
+font-weight: bold;
+}
+#contador {
+font-size: 1.2rem;
+color: green;
+margin-left: 20px;
+}
+
+.txt11 {
+    text-align: center;
+    font-size: 35px;
+    margin-left: 850px;
+    margin-top: -560px;
+    color: #000000;
+    font-family: sans-serif ;
+    font-weight: 900; 
+}
+.txt12 {
+    text-align: center;
+    font-size: 20px;
+    margin-left: 855px;
+    margin-top: 50px;
+    color: #000000;
+    font-family: sans-serif ;
+     
+}
+.txt13{
+margin-left: 1065px;
+margin-top: 30px;
+}
+.hombre2{
+    height: 500px;
+    width: 700px;
+    margin-top: 200px;
+    margin-left: 700px ;
+}
+.txtNom{
+  font-size: 30px;
+  margin-left: 20px;
+  margin-top: -500px;
+  font-weight: bold;
+}
+.form-label{
+  margin-left: 60px;
+  font-size: 20px;
+  margin-top: 20px;
+
+}
+.container{
+  margin-top: 8000px;
+
+}
+.container2{
+  margin-top: 20px;
+  margin-left: 60px;
+}
+.btn-primary3 {
+  display: flex;  
+  margin-left: -500px;
+  background-color: red !important;
+   margin-top: 20px;
+  margin-left: 60px;
+ 
+}
+#codigo {
+margin-left: 1000px;
+}
+.txt22{
+color: rgb(255, 0, 132);
+text-align: center;
+margin-left: 820px;
+margin-top: 60px;
+font-size: 4% !important;
+}
+body {
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+}
+
+.header {
+    background-color: #ff3b30;
+    padding: 10px 0;
+}
+
+.saldo {
+    background-color: #ff3b30;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+
+.transaccion {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+.transaccion img {
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+}
+.cliente{
+  width: 10px;
+  height: 20px;
+}
+.juan{
+  margin-left: 650px;
+  margin-top: -50px;
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.num{
+  margin-left: 1050px;
+  margin-top: -60px;
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+}

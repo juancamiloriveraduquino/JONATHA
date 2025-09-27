@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>modelo4</title>
+    <link rel="stylesheet" href="/css/resourcer.css">
+    <link href="modelo.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+
+<body>
+    <img src="hombre2.png" class="hombre2" alt="...">
+    <div><h1 class="txtNom">Escribe tu nombre</h1></div>
+
+    <container class="container">
+        <div class="d-grid gap-2 col-3 mx-90 ">
+            <label for="nombreUsuario" class="form-label">Nombre de Usuario</label>
+            <input type="text" class="container2" id="nombreUsuario" style="height:50px;" placeholder="Juanita Diaz">
+        </div>
+
+        <div class="d-grid gap-2 col-3 mx-left">
+            <label for="saldoInicial" class="form-label"></label>
+            <input type="text" class="container2" id="saldoInicial" style="height: 50px;" placeholder="Saldo Inicial">
+        </div>
+    </container>
+
+    <div class="d-grid gap-2 col-3 mx-left">
+        <button class="btn btn-primary3" type="button" onclick="guardarNombre()">Siguiente</button>
+    </div>
+
+    <script src="modelo.js"></script>
+</body>
+</html>

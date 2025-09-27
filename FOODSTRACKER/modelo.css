@@ -1,0 +1,180 @@
+body {
+background-color: #f8f9fa;
+}
+
+.logo-img {
+width: 450px;
+height: auto;
+border-radius: 15px;
+object-fit: cover;
+}
+
+.object-fit-cover {
+object-fit: cover;
+}
+.custom-line {
+border: none;
+height: 2px;         
+background-color: black; 
+width: 10;
+}
+.form-check{
+ margin-left: 70px;
+}
+
+body {
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+background-color: #f8f9fa;
+}
+
+
+.navbar-brand {
+font-weight: bold;
+font-size: 1.5rem;
+}
+
+.nav-link {
+font-size: 1rem;
+margin-left: 15px;
+}
+
+
+.bg-success {
+min-height: 100vh;
+}
+
+.bg-success h4 {
+font-weight: bold;
+}
+
+.btn-light {
+font-weight: 600;
+color: #17C694;
+border: none;
+transition: background-color 0.3s ease;
+}
+
+.btn-light:hover {
+background-color: #17C694;
+}
+
+.bg-white h1 {
+font-size: 3rem;
+color: #343a40;
+}
+
+.bg-white p.lead {
+font-size: 1.25rem;
+color: #ffffff;
+}
+
+img.float-end {
+margin-top: -40px;
+}
+:root {
+--primary-green: #2ECC71;
+--dark-green: #27AE60;
+--light-gray: #F8F9FA;
+--dark-gray: #6C757D;
+--text-dark: #2C3E50;
+--border-radius: 20px;
+--shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+--transition: all 0.3s ease;
+}
+
+
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+body {
+font-family: 'Poppins', sans-serif;
+background-color: var(--light-gray);
+color: var(--text-dark);
+overflow-x: hidden;
+}
+
+.navbar {
+border-bottom: 1px solid #E9ECEF;
+padding: 1rem 0;
+background-color: white !important;
+}
+
+.navbar-nav .nav-link {
+color: var(--text-dark) !important;
+font-weight: 500;
+margin-right: 2rem;
+padding: 0.5rem 0 !important; position: relative;
+transition: var(--transition);
+}
+
+.navbar-nav .nav-link:hover,
+.navbar-nav .nav-link.active {
+color: var(--primary-green) !important;
+}
+
+.navbar-nav .nav-link::after {
+content: '';
+position: absolute;
+bottom: 0;
+left: 0;
+width: 0;
+height: 2px;
+background-color: var(--primary-green);
+transition: var(--transition);
+}
+
+.navbar-nav .nav-link:hover::after,
+.navbar-nav .nav-link.active::after {
+width: 100%;
+}
+
+
+.logo-container {
+background: linear-gradient(135deg, #2C3E50, #34495E);
+padding: 0.8rem 1.5rem;
+border-radius: var(--border-radius);
+box-shadow: var(--shadow);
+}
+
+.logo-text {
+color: white;
+font-weight: 600;
+font-size: 1.2rem;
+font-style: italic;
+}
+
+
+.sidebar {
+background-color: #17C694;
+min-height: 100vh;
+border-radius: 10px;
+}
+
+.sidebar .btn {
+border-radius: 10px;
+text-align: center;
+color: black;
+}
+
+.sidebar .btn:hover {
+background-color: #16a085;
+color: white;
+}
+
+
+.card {
+border-radius: 12px;
+}
+
+.navbar .nav-link {
+font-weight: 500;
+color: #333;
+}
+
+.navbar .nav-link:hover {
+color: #1abc9c;
+}
+
